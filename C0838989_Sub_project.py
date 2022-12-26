@@ -42,7 +42,7 @@ count = 1
 
 # tk inter intialization
 win = tk.Tk()
-server = win.server
+
 # tk inter title display:
 win.title('OpenWeatherApp')
 # sets background color
